@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jeff by my friends just call me Fritz 👋
+
+- 🎬 I'm working on a web application called [KlipTok](https://kliptok.com) that makes Twitch clips more discoverable
+- 📺 You can watch my [videos on YouTube](https://youtube.com/csharpfritz)
+- 🎥 I write code live on [Twitch](https://twitch.tv/csharpfritz) - tune in, chat, and I'll answer your questions live on video.
+- ✍️ I have a blog at https://csharpfritz.com
+- 🐤 You can find me on Twitter at https://twitter.com/csharpfritz
+- 😄 Pronouns: He/Him
+
+![](https://github-readme-stats.vercel.app/api?username=csharpfritz)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=csharpfritz)
 
 <!--
 **csharpfritz/csharpfritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
