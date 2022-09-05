@@ -1,4 +1,4 @@
-### Hi, I'm Jeff by my friends just call me Fritz 👋
+### Hi, I'm Jeff but my friends just call me Fritz 👋
 
 - 🎬 I'm working on a web application called [KlipTok](https://kliptok.com) that makes Twitch clips more discoverable
 - 📺 You can watch my [videos on YouTube](https://youtube.com/csharpfritz)
