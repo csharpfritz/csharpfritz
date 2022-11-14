@@ -5,6 +5,7 @@
 - 🎥 I write code live on [Twitch](https://twitch.tv/csharpfritz) - tune in, chat, and I'll answer your questions live on video.
 - ✍️ I have a blog at https://csharpfritz.com
 - 🐤 You can find me on Twitter at https://twitter.com/csharpfritz
+- 🤔 I am 'tooting' on Mastadon at: <a href="https://mas.to/@csharpfritz" rel="nofollow">https://mas.to/@csharpfritz</a>
 - 😄 Pronouns: He/Him
 
 ![](https://github-readme-stats.vercel.app/api?username=csharpfritz)
