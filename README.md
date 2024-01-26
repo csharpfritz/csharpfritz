@@ -1,6 +1,6 @@
 ### Hi, I'm Jeff but my friends just call me Fritz 👋
 
-- 🎬 I'm working on a web application called [KlipTok](https://kliptok.com) that makes Twitch clips more discoverable
+- 🎬 I'm working on a series of C# lessons and training videos called [C# in the Cards](https://csharpinthecards.com)
 - 📺 You can watch my [videos on YouTube](https://youtube.com/csharpfritz)
 - 🎥 I write code live on [Twitch](https://twitch.tv/csharpfritz) - tune in, chat, and I'll answer your questions live on video.
 - ✍️ I have a blog at https://csharpfritz.com
